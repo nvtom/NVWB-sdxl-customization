@@ -7,4 +7,3 @@
 *bash.PreLanguage
 *python.PipPackageManager
 *bash.PostBuild
-*python.JupyterLabPackage
