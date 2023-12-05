@@ -10,3 +10,6 @@ git clone https://github.com/huggingface/diffusers && \
     cd diffusers && \
     pip install -e .
 cd -
+
+jupyter labextension disable "@jupyterlab/apputils-extension:announcements"
+jupyter labextension disable "@jupyterlab/apputils-extension:announcements"
